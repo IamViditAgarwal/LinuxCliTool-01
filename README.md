@@ -1,5 +1,17 @@
-# LinuxCliTool-01
-Small linux cli tool made for fun
+# String Hashing CLI utility
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![HitCount](http://hits.dwyl.io/IamViditAgarwal/badges.svg)](http://hits.dwyl.io/IamViditAgarwal/badges.svg)
+
+
+Small-n-simple command line utility for generating the hash's of a string.
+
+Some of the supported formats are:
+*   md5
+*   sha224
+*   sha256
+*   sha512
 
 ## Folder Structure
 *   `__init__.py`: The purpose of this file is to let `pip` know that this is a python package
