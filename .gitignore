@@ -1,0 +1,3 @@
+# Ignore the generated files/folders
+*.egg-info/
+__pycache__/
