@@ -11,3 +11,6 @@ Follow the steps to install the package:
 *   In the root level of the repo,
 *   Run this: ```pip3 install -e .```
     *   `-e` let the pip to know that this package is in development mode.
+
+## Demo Video
+![demo](./demo/demo.svg)
