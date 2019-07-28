@@ -7,7 +7,7 @@ setup(
     packages = ['pwHash'],
     entry_points = {
         'console_scripts': [
-            'pwHash = pwHash.__main__:hashThis'
+            'pwHash = pwHash.main:hashThis'
         ]
     },
     install_requires = ['click']
